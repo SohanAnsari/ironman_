@@ -23,6 +23,11 @@ li a{
     color: darkred;
     font-weight: bold;
 }
+p{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
 
 .big-text{
     font-size: 52px;
